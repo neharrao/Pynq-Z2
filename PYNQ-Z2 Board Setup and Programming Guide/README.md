@@ -99,3 +99,5 @@ led1.off()
 sleep(0.1)
 ```
 This code continuously monitors the state of switches SW0 and SW1 on the PYNQ-Z2 board. If SW0 is ON, it turns on LEDs LD0 and LD1, and if SW1 is ON, it turns on LEDs LD2 and LD3. If the switches are not ON, it turns off the respective LEDs. This behavior allows users to control the LEDs using the switches on the board.
+
+## Binary Tree on Pynq-Z2
